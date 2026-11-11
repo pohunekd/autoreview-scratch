@@ -1,1 +1,2 @@
 feature one 240
+feature two 240
