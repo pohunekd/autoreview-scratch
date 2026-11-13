@@ -1,13 +1,6 @@
-modify line 1
-modify line 2
-modify line 3
-modify line 4
-modify line 5
-modify line 6
-modify line 7
-modify line 8
-modify line 9
-modify line 10
+replacement a
+replacement b
+replacement c
 modify line 11
 modify line 12
 modify line 13
